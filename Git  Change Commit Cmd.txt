@@ -1,0 +1,9 @@
+First if you want to update your commit write in git bash
+1.git commit --amend
+After it Press E
+Then you can edit in cmd 
+Then you can your message
+Then Press esc key to exit
+Then Press : key
+Then write wq 
+Now your commit is Changed

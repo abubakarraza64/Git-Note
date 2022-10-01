@@ -1,0 +1,7 @@
+if you want to stage only on File then your Write in git bash
+git add filename with extension 
+if i change one file and i staged it accenditally but i dont need to Stagged it then
+You do??
+First You Write in Cmd
+git restore --staged fileName
+Then it Changed your file from Staged to UnStaged

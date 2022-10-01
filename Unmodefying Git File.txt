@@ -1,0 +1,5 @@
+If you accidently delete your data in file or Change your data in File But you Want 
+all data in file and you accidently staged your file with new data and You Want to Recover
+What You Do??
+Then run git checkout --filename
+it recover all your old data in file 
