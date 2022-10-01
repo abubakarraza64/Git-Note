@@ -1,0 +1,12 @@
+1.git log
+it show all commit in Project
+2.git log --pretty=oneline
+it show all commit in project with commit not author
+3.git log --pretty=full 
+it show all commit in Project with Commiter and author
+4.git log --since-2.days
+it show all commit in last 2 days you can find any last days month and year log 
+5.git log --pretty=format:"%h-%an"
+filter
+this command show commit with abberivative commit hash and author name.There is lot just
+like that you visit web:https://git-scm.com/docs/git-log 
