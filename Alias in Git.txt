@@ -1,0 +1,7 @@
+If you dont wan't to write long command and you want to take it shortcut For Example
+When i write in Cmd git status but don't want it How to take it shortcut.And Shortcut
+Work same as cmd??
+In Git Bash Run Cmd
+git config --global alias.st status
+it convert your cmd git status to git st
+it work as same as git status work

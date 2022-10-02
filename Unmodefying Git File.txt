@@ -1,5 +1,9 @@
-If you accidently delete your data in file or Change your data in File But you Want 
-all data in file and you accidently staged your file with new data and You Want to Recover
-What You Do??
+1.If you accidently delete your data in file or Change your data in File But you Want 
+all data in file and you accidently modified your file with new data and You Want to
+ Recover old data from your last commit What You Do??
 Then run git checkout --filename
 it recover all your old data in file 
+2.if you change in your file but you dont want it you want all data in last commit 
+what you do??
+then run git checkout -f
+it unmodified all your file and return last commit file 
