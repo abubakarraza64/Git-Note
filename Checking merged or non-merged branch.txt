@@ -1,0 +1,4 @@
+Check Merged Branch 
+git branch --merged
+check Un-Merged Branch
+git branch --no-merged
